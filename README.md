@@ -22,7 +22,7 @@ The OneMap Data Integration Tool is designed to streamline GIS data management a
 
 ✔ Multiple Export Formats – Convert data into Shapefiles, GeoJSON, or ArcGIS Feature Services.
 
-✔ Ensures a Single Source of Truth – Standardizes geospatial data storage for BP’s OneMap.
+✔ Ensures a Single Source of Truth – Standardizes geospatial data storage for companies’ OneMap.
 
 ✔ Detailed Logs & Error Handling – Provides clear success/error messages during execution.
 
@@ -82,8 +82,10 @@ Export format error	Check if GeoJSON or Feature Service is supported in your Arc
 📌 Future Improvements
 
 Enhanced schema validation for BP-specific attributes.
+
 Automated metadata tagging for better searchability.
-Cloud & Mobile GIS support for BP’s distributed teams.
+
+Cloud & Mobile GIS support for companies’ distributed teams.
 
 
 
