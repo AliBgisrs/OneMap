@@ -95,7 +95,7 @@ Cloud & Mobile GIS support for companies’ distributed teams.
 
 
 
-![image](https://github.com/user-attachments/assets/2640db9c-6323-4718-8af9-37b9a304ba91)
+![image](https://github.com/user-attachments/assets/7f0ac997-4fd7-4002-b215-611b9daffd6b)
 
 
 
