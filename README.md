@@ -7,7 +7,7 @@ Compatible With: ArcGIS Pro 3.x
 
 📌 Overview
 
-The OneMap Data Integration Tool is designed to streamline GIS data management and sharing across multiple teams in BP’s OneMap platform. The tool allows users to import, validate, and export GIS datasets from various sources while ensuring schema consistency and data standardization.
+The OneMap Data Integration Tool is designed to streamline GIS data management and sharing across multiple teams in big companies’ OneMap platform. The tool allows users to import, validate, and export GIS datasets from various sources while ensuring schema consistency and data standardization.
 
 🎯 Key Features
 
