@@ -1,8 +1,13 @@
 OneMap Data Integration Tool
+
 Author: Aliasghar Bazrafkan
+
 Date: February 28, 2025
+
 Version: 1.0
+
 Tool Type: ArcGIS Python Toolbox (.pyt)
+
 Compatible With: ArcGIS Pro 3.x
 
 📌 Overview
